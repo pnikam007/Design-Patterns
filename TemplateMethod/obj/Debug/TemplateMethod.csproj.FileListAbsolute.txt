@@ -1,0 +1,7 @@
+D:\PERSONAL\DESIGN_PATTERNS\AbstractFactory\TemplateMethod\obj\Debug\TemplateMethod.csproj.CoreCompileInputs.cache
+D:\PERSONAL\DESIGN_PATTERNS\AbstractFactory\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+D:\PERSONAL\DESIGN_PATTERNS\AbstractFactory\TemplateMethod\bin\Debug\TemplateMethod.exe
+D:\PERSONAL\DESIGN_PATTERNS\AbstractFactory\TemplateMethod\bin\Debug\TemplateMethod.pdb
+D:\PERSONAL\DESIGN_PATTERNS\AbstractFactory\TemplateMethod\obj\Debug\TemplateMethod.exe
+D:\PERSONAL\DESIGN_PATTERNS\AbstractFactory\TemplateMethod\obj\Debug\TemplateMethod.pdb
+D:\PERSONAL\DESIGN_PATTERNS\AbstractFactory\TemplateMethod\obj\Debug\TemplateMethod.csproj.AssemblyReference.cache
